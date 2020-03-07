@@ -1,0 +1,89 @@
+[SMTP] 2020-02-10 15:13:14: 
+data: a:12:{s:8:"fromName";s:14:"Otaku - 阿宅";s:4:"from";s:16:"428982262@qq.com";s:2:"to";s:16:"963508700@qq.com";s:7:"replyTo";s:16:"428982262@qq.com";s:7:"subject";s:52:"您在 [Otaku - 阿宅] 提交的密码找回申请!";s:4:"html";s:4444:"<div style="background:#ececec;width: 100%;padding: 50px 0;text-align:center;">
+    <div style="background:#fff;width:750px;text-align:left;position:relative;margin:0 auto;font-size:14px;line-height:1.5;">
+        <div style="zoom:1;padding:25px 40px;background:#518bcb; border-bottom:1px solid #467ec3;">
+            <h1 style="color:#fff; font-size:25px;line-height:30px; margin:0;"><a href="http://blog.nekoo.xyz/"
+                                                                                  style="text-decoration: none;color: #FFF;">您在
+                [Otaku - 阿宅] 的密码找回申请!</a></h1>
+        </div>
+
+        <div style="padding:35px 40px 30px;">
+            <h2 style="font-size:18px;margin:5px 0;"><span
+                    style="color: rgb(186, 76, 50); font-family:微软雅黑, verdana, arial; line-height: 23.3999996185303px;">963508700@qq.com</span>,
+                您好!</h2>
+
+            <p style="color:#313131;line-height:20px;font-size:15px;margin:20px 0;">您在 [Otaku - 阿宅] 提交了找回密码申请,
+                请核对下方表内信息并点击链接修改密码：</p>
+
+            <table cellspacing="0"
+                   style="font-size:14px;text-align:center;border:1px solid #ccc;table-layout:fixed;width:500px;">
+                <thead>
+                <tr>
+                    <th style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:normal;color:#a0a0a0;background:#eee;border-color:#dfdfdf;"
+                        width="280px;">邮箱地址
+                    </th>
+                    <th style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:normal;color:#a0a0a0;background:#eee;border-color:#dfdfdf;"
+                        width="270px;">申请时间
+                    </th>
+                    <th style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:normal;color:#a0a0a0;background:#eee;border-color:#dfdfdf;"
+                        width="110px;">操作
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+                        963508700@qq.com
+                    </td>
+                    <td style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+                        2020-02-10 15:13:11
+                    </td>
+                    <td style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+                        <a href="http://blog.nekoo.xyz/index.php/action/lovekkcomment?reset=true&t=08125b914ce7bd3afa9a6f957f3fa8e2&m=963508700%40qq.com&e=1581319391" style="color:#1E5494;text-decoration:none;vertical-align:middle;"
+                           target="_blank">http://blog.nekoo.xyz/index.php/action/lovekkcomment?reset=true&t=08125b914ce7bd3afa9a6f957f3fa8e2&m=963508700%40qq.com&e=1581319391</a></td>
+                </tr>
+                <tr>
+                    <td colspan="3"
+                        style="padding:5px 0;text-indent:8px;border:1px solid #eee;border-width:0 1px 1px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#FF0000;font-weight:bold">
+                        重置密码链接有效时间为 &quot;10&quot; 分钟, 请在此时间内进行密码重置
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            &nbsp;
+
+            <div style="font-size:13px;color:#a0a0a0;padding-top:10px">请注意：此邮件由&nbsp;<a href="http://blog.nekoo.xyz/" target="_blank"
+                                                                                        title="Otaku - 阿宅">Otaku - 阿宅</a>&nbsp;自动发送，请勿直接回复。<br/>
+                若此邮件不是您请求的，请忽略并删除！
+            </div>
+        </div>
+    </div>
+</div>";s:9:"smtp_host";s:11:"smtp.qq.com";s:9:"smtp_port";s:3:"587";s:9:"smtp_user";s:16:"428982262@qq.com";s:9:"smtp_pass";s:16:"eqxffjbvubnqcaci";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"tls";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2020-02-23 17:12:10: 
+data: a:12:{s:8:"fromName";s:14:"Otaku - 阿宅";s:4:"from";s:16:"428982262@qq.com";s:2:"to";s:16:"963508700@qq.com";s:7:"replyTo";s:16:"428982262@qq.com";s:7:"subject";s:55:"您在 [Otaku - 阿宅]  发表的文章有新评论！";s:4:"html";s:2371:"<table style="width:99.8%;height:99.8%">
+    <tbody>
+    <tr>
+        <td style="background:#fafafa url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAy0lEQVQY0x2PsQtAYBDFP1keKZfBKIqNycCERUkMKLuSgZnRarIpJX8s3zfcDe9+794du+8bRVHQOI4wDAOmaULTNDDGYFkWMVVVQUTQdZ3iOMZxHCjLElVV0TRNYHVdC7ptW6RpSn3f4wdJkiTs+w6WJAl4DcOAbdugKAq974umaRAEARgXn+cRW3zfFxuiKCJZloXGHMeBbdv4Beq6Duu6Issy7iYB8Jbnucg8zxPLsggnj/zvIxaGIXmeB9d1wSE+nOeZf4HruvABUtou5ypjMF4AAAAASUVORK5CYII=)">
+            <div style="border-radius:10px;font-size:13px;color:#555;width:666px;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB','微软雅黑','Microsoft Yahei',Tahoma,Helvetica,Arial,SimSun,sans-serif;margin:50px auto;border:1px solid #eee;max-width:100%;background:#fff repeating-linear-gradient(-45deg,#fff,#fff 1.125rem,transparent 1.125rem,transparent 2.25rem);box-shadow:0 1px 5px rgba(0,0,0,.15)">
+                <div style="width:100%;background:#49BDAD;color:#fff;border-radius:10px 10px 0 0;background-image:-moz-linear-gradient(0deg,#43c6b8,#ffd1f4);background-image:-webkit-linear-gradient(0deg,#43c6b8,#ffd1f4);height:66px"><p style="font-size:15px;word-break:break-all;padding:23px 32px;margin:0;background-color:hsla(0,0%,100%,.4);border-radius:10px 10px 0 0">您在 [<a href="http://blog.nekoo.xyz/" style="text-decoration:none;color:#fff" target="_blank">Otaku - 阿宅</a>] 发表的文章有新评论！</p></div>
+                <div style="margin:40px auto;width:90%">
+                    <p>阿宅 在您的《<a href="http://blog.nekoo.xyz/index.php/cross.html/comment-page-1#comment-41" style="text-decoration:none;color:#12addb" target="_blank">碎碎念</a>》上发表评论:</p>
+                    <p style="background:#fafafa repeating-linear-gradient(-45deg,#fff,#fff 1.125rem,transparent 1.125rem,transparent 2.25rem);box-shadow:0 2px 5px rgba(0,0,0,.15);margin:20px 0;padding:15px;border-radius:5px;font-size:14px;color:#555">百度网盘一生黑，再也不续费了，mmp</p>
+                    <p>请注意：此邮件由 <a href="http://blog.nekoo.xyz/" style="color:#12addb" target="_blank">Otaku - 阿宅</a> 自动发送，请勿直接回复。</p>
+                    <p>若此邮件不是您请求的，请忽略并删除！</p>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table>";s:9:"smtp_host";s:11:"smtp.qq.com";s:9:"smtp_port";s:3:"587";s:9:"smtp_user";s:16:"428982262@qq.com";s:9:"smtp_pass";s:16:"eqxffjbvubnqcaci";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"tls";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
